@@ -1,0 +1,49 @@
+header{
+    background-color: rgb(77, 77, 138);
+    color: rgb(245, 245, 245);
+    text-align: center;
+    padding: 10px;
+    border-radius: 2%;
+    border: 3px solid rgb(0, 0, 0);
+}
+main{
+    margin-bottom: 3rem;
+}
+h1{
+    color: whitesmoke;
+    border: 10px;
+    background-color: rgb(58, 65, 115);
+    border-radius: 5px;
+    
+}
+a{
+    text-decoration: none;
+}
+.page_title{
+    color: black;
+    background: none;
+}
+.trip_img{
+    display: flex;
+}
+.trip_text{
+    display: flex;
+    padding: 1px;
+    background-color:rgb(58, 65, 115) ;
+    color: white;
+    margin: 0;
+}
+p{
+    background-color: rgb(63, 105, 143);
+    color: white;
+}
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer{
+
+}
+
+.trip_text.p{
+    
+}
